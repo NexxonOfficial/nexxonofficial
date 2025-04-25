@@ -1,9 +1,9 @@
 <p align='center'>
-  <h1 align='center'>Hi there 👋, I'm Nexxon!</h1>
+  <h1 align='center'>Hi there 👋, I'm Nex!</h1>
   <p align='center'>Passionate Self-Taught Programmer</p>
-  <p>For some reason, I've never been able to get away from programming since I started. <b>5 years ago</b> I started programming. It was only a simple Python script for a homework project, but it got me hooked. I enjoy programming for video game modifications, as I've always found a home in gaming. Whether that's the introvert in me coming out, I am not sure, it's just what I enjoy.</p>
+  <p>For some reason, I've never been able to get away from programming since I started. <b>7 years ago</b> I started programming. It was only a simple Python script for a homework project, but it got me hooked. I enjoy programming for video game modifications, as I've always found a home in gaming. Whether that's the introvert in me coming out, I am not sure, it's just what I enjoy.</p>
   <p>Personally, I've always liked programming on the frontend. I like making things look good. I get that massive buzz from making something look good. Not sure if any other programmers get the same buzz, but it feels great. That's why, if you see me working on a project, it'll probably be on the frontend.</p>
-  <p>Anyways, enough fo me talking, here is what I've got up to for the past 5 years.</p>
+  <p>Anyways, enough fo me talking, here is what I've got up to for the past 7 years.</p>
   <h3>I am currently learning:</h3>
   <div><img src='https://img.shields.io/badge/C%20Sharp-239120.svg?style=for-the-badge&logo=C-Sharp&logoColor=white'><img src='https://img.shields.io/badge/Neutralinojs-F89901.svg?style=for-the-badge&logo=Neutralinojs&logoColor=white'><img src='https://img.shields.io/badge/FiveM-F40552.svg?style=for-the-badge&logo=FiveM&logoColor=white'><img src='https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white'></div>
   <h3>I have worked with:</h3>
